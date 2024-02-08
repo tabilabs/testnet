@@ -8,7 +8,7 @@ Follow the instructions on the official documentation to [join the testnet](http
 
 ## Genesis File
 
-Download the zipped genesis file [genesis.json](https://archive.evmos.dev/evmos_9000-3/genesis.json)
+Download the zipped genesis file [genesis.json](https://archive.testnet.tabichain.com/genesis.json)
 
 Verify the SHA256 checksum using:
 
