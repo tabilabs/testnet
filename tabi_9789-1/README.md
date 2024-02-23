@@ -14,14 +14,13 @@ Verify the SHA256 checksum using:
 
 ```bash
 sha256sum genesis.json
-# 33421df3d2ddc44a2bb59fd6d8ddb7a7b0ddf92c4f2dbc27c52ecba2da3c24e9  genesis.json
+# 196267ef6cd857c10e992c1e6d0e7deb24bb7c2701383f7999e6dc8490ab8e7e  genesis.json
 ```
 
 ## Details
 
 - Network Chain ID: `tabi_9789-1`
 - EIP155 Chain ID: `9789`
-- `evmosd` version: [`v1.0.0-beta1`](https://github.com/tharsis/evmos/releases)
 - Faucet: [faucet.testnet.tabichain.com](https://faucet.testnet.tabichain.com)
 - EVM explorer: [testnet.tabiscan.com](http://testnet.tabiscan.com)
 
