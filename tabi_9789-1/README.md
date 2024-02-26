@@ -27,6 +27,7 @@ sha256sum genesis.json
 - Rpc [rpc.testnet.tabichain.com](https://rpc.testnet.tabichain.com)
 - gRpc [grpc.testnet.tabichain.com](http://grpc.testnet.tabichain.com)
 - Rest [rest.testnet.tabichain.com](http://rest.testnet.tabichain.com)
+- WSS: `wss://wss.testnet.tabichain.com`
 
 ## Seeds & Peers
 
